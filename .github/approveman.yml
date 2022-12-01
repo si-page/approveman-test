@@ -1,0 +1,6 @@
+ownership_rules:
+  global_allowed_users:
+  - octo-ci
+  directory_matching_rules:
+    - name: "Test stuff in here."
+      path: "in-here/*.txt"
